@@ -1,0 +1,10 @@
+{
+  "name": "SMS GAMING",
+  "short_name": "SMS GAMING",
+  "start_url": "/sms_gaming/",
+  "scope": "/sms_gaming/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "icons": []
+}
