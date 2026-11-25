@@ -1,10 +1,13 @@
 {
-  "name": "SMS GAMING",
-  "short_name": "SMS GAMING",
-  "start_url": "/sms_gaming/",
-  "scope": "/sms_gaming/",
+  "background_color": "rgb(245, 241, 241)",
+  "description": "SMS Gaming - latest Indian mobile simulator games, updates and official download links.",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#111111",
-  "theme_color": "#111111",
-  "icons": []
+  "name": "sms gaming",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "sms gaming",
+  "start_url": "/",
+  "theme_color": "#6d4b4b",
+  "id": " /sms_gaming/"
 }
